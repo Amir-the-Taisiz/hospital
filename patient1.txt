@@ -1,0 +1,41 @@
+1401
+John Kingston
+dr.Greed
+22/06/2023
+drugs
+painkillers 
+antibiotic
+/
+1402
+Elli Fraizer
+dr.McDobe
+25/04/2023
+drugs
+painkillers 
+antibiotic
+/
+1403
+David Flitch
+dr.Pitterson
+05/11/2023
+drugs
+painkillers 
+antibiotic
+/
+1404
+Habib Abd O Noor Mohammadov
+dr.Greed
+13/12/2022
+drugs
+painkillers 
+antibiotic
+/
+1405
+Sara Paganini
+dr.Jahangiri
+08/07/2023
+drugs
+painkillers 
+antibiotic
+/
+

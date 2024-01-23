@@ -1,0 +1,50 @@
+1234
+Amir
+Sabooti
+dr.Green
+22/17/6412
+drugs
+antihistamnin
+koraizen
+/
+1401
+John Kingston
+dr.Greed
+22/06/2023
+drugs
+painkillers 
+antibiotic
+/
+1402
+Elli Fraizer
+dr.McDobe
+25/04/2023
+drugs
+painkillers 
+antibiotic
+/
+1403
+David Flitch
+dr.Pitterson
+05/11/2023
+drugs
+painkillers 
+antibiotic
+/
+1405
+Sara Paganini
+dr.Jahangiri
+08/07/2023
+drugs
+painkillers 
+antibiotic
+/
+1111
+mehran
+akbari
+dr.sheikhi
+02/10/1403
+drugs
+antihistamine
+aaaaaa
+/
